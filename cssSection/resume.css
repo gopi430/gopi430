@@ -1,3 +1,53 @@
 .external{
     color: blue;
 }
+.fontStyle{
+    font-family: Arial;
+
+    font-weight: 1000;
+    font:small-caps 30px italic
+}
+
+.background{
+    background-color: burlywood;
+    color: white;
+}
+
+body{
+    /* background-color: cornflowerblue; */
+    background-image: url('download.jpeg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 500px;
+    background-attachment: fixed;
+}
+
+.textStyle{
+    letter-spacing:2px;
+    text-decoration: line-through;
+
+}
+.powerStyle{
+    vertical-align: super;
+    text-transform:uppercase;
+}
+.textAlign{
+    text-align: justify; 
+    text-indent: 25px;
+    line-height:25px;
+}
+.listAll{
+    list-style-type:disc;
+    list-style-image:url('ball.jpeg');
+
+}
+.divStyle{
+    height: 200px;
+    width: 300px;
+    background-color: purple;
+    margin: 200px;
+    padding: 20px;
+    border-bottom-color: red;
+    border-bottom-width: 20px;
+    border-bottom-style: double ;
+}
