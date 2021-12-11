@@ -1,6 +1,6 @@
-package javatraining;
+
 import java.util.Scanner;
-public class Hallow {
+public class palinDrome {
 // reverse of a String 
 	public static void main(String[] args) {
 	String a;

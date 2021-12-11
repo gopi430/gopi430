@@ -1,0 +1,103 @@
+what is css?
+cascading Style Sheets
+
+style sheets are a collection of formating rules
+
+three methods of using css
+inline css
+internal css
+external css
+
+three types of selector
+tag selector
+id selector
+class selector
+
+css topic:-
+1)Structure of css
+2)how to link css
+3)font properties
+4)Background Properties
+5)Text Properties
+6)List Properties
+7)Margin Properties
+8)Padding Properties
+9)Border Properties
+10)Type of selectors
+11)Box Model
+12)Display & Postion Properties
+
+css properties:-
+
+font porperties list:-
+font-family 
+font-style
+font-variant:small-caps
+font-weight
+font-size
+color
+font <style> <variant> <weight> <size> <family>
+
+background Properties list:-
+background-color
+Background-image
+background-repeat:no-repeat,x-reapeat
+background-postion
+background-size
+background
+
+text properties list:-
+letter-spacing
+text-decoration
+vertical-align //power style
+text-transform //uppercase
+text-align
+text-indent
+line-height
+
+list properties list:-
+list-style-type
+list-style-image
+
+margin properties list:-
+margin-top
+margin-left
+margin-bottom
+margin-right
+margin
+
+padding properties list:-
+padding-top
+padding-left
+padding-bottom 
+padding-right
+padding
+
+border properties list:-
+
+width
+------
+border-top-width
+border-right-width
+border-bottom-width
+border-left-width
+
+color
+-----
+border-right-color
+border-left-color
+border-top-color
+border-bottom-color
+
+style
+-----
+border-right-style
+border-left-style
+border-top-style
+border-bottom-style
+
+border
+
+display properties list:-
+
+display //inline,none,block,inline-block
